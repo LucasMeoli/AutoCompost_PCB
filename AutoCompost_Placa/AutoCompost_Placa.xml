@@ -1,0 +1,1279 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="E">
+  <design>
+    <source>C:\Lucas\FIUBA\TPP\Hardware\Placa\AutoCompost_Placa\AutoCompost_Placa.kicad_sch</source>
+    <date>7/10/2023 19:32:49</date>
+    <tool>Eeschema 7.0.7</tool>
+    <sheet number="1" name="/" tstamps="/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>AutoCompost_Placa.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+  </design>
+  <components>
+    <comp ref="5V1">
+      <value>Molex 0.156</value>
+      <footprint>Conectores_Molex:Molex_156_2pines</footprint>
+      <fields>
+        <field name="Availability">In Stock</field>
+        <field name="Check_prices">https://www.snapeda.com/parts/0026604020/Molex/view-part/?ref=eda</field>
+        <field name="Description">
+Connector Header Through Hole 2 position 0.156 (3.96mm)
+</field>
+        <field name="MANUFACTURER">MOLEX</field>
+        <field name="MF">Molex</field>
+        <field name="MP">0026604020</field>
+        <field name="PARTREV">R</field>
+        <field name="Package">None</field>
+        <field name="Price">None</field>
+        <field name="Purchase-URL">https://www.snapeda.com/api/url_track_click_mouser/?unipart_id=702716&amp;manufacturer=Molex&amp;part_name=0026604020&amp;search_term=connector header through hole 2 position 0.156"</field>
+        <field name="STANDARD">Manufacturer Recommendation</field>
+        <field name="SnapEDA_Link">https://www.snapeda.com/parts/0026604020/Molex/view-part/?ref=snap</field>
+      </fields>
+      <libsource lib="Conectores_Molex" part="Molex_156_2pines" description=""/>
+      <property name="MF" value="Molex"/>
+      <property name="Description" value="&#xA;Connector Header Through Hole 2 position 0.156 (3.96mm)&#xA;"/>
+      <property name="Package" value="None"/>
+      <property name="Price" value="None"/>
+      <property name="Check_prices" value="https://www.snapeda.com/parts/0026604020/Molex/view-part/?ref=eda"/>
+      <property name="STANDARD" value="Manufacturer Recommendation"/>
+      <property name="PARTREV" value="R"/>
+      <property name="SnapEDA_Link" value="https://www.snapeda.com/parts/0026604020/Molex/view-part/?ref=snap"/>
+      <property name="MP" value="0026604020"/>
+      <property name="Purchase-URL" value="https://www.snapeda.com/api/url_track_click_mouser/?unipart_id=702716&amp;manufacturer=Molex&amp;part_name=0026604020&amp;search_term=connector header through hole 2 position 0.156&quot;"/>
+      <property name="Availability" value="In Stock"/>
+      <property name="MANUFACTURER" value="MOLEX"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="AutoCompost_Placa.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4f7c519f-7a8c-45e7-a918-2a28285e88ed</tstamps>
+    </comp>
+    <comp ref="C1">
+      <value>33nF</value>
+      <footprint>Capacitor_THT:C_Radial_D8.0mm_H7.0mm_P3.50mm</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="AutoCompost_Placa.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6e9b847d-2639-41d2-93bb-bb0d8a2bfe34</tstamps>
+    </comp>
+    <comp ref="C2">
+      <value>100nF</value>
+      <footprint>Capacitor_THT:C_Radial_D8.0mm_H7.0mm_P3.50mm</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="AutoCompost_Placa.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>9a06981f-c4d8-493f-a81c-1a357247bc49</tstamps>
+    </comp>
+    <comp ref="Crusher1">
+      <value>Molex 0.156</value>
+      <footprint>Conectores_Molex:Molex_156_2pines</footprint>
+      <fields>
+        <field name="Availability">In Stock</field>
+        <field name="Check_prices">https://www.snapeda.com/parts/0026604020/Molex/view-part/?ref=eda</field>
+        <field name="Description">
+Connector Header Through Hole 2 position 0.156 (3.96mm)
+</field>
+        <field name="MANUFACTURER">MOLEX</field>
+        <field name="MF">Molex</field>
+        <field name="MP">0026604020</field>
+        <field name="PARTREV">R</field>
+        <field name="Package">None</field>
+        <field name="Price">None</field>
+        <field name="Purchase-URL">https://www.snapeda.com/api/url_track_click_mouser/?unipart_id=702716&amp;manufacturer=Molex&amp;part_name=0026604020&amp;search_term=connector header through hole 2 position 0.156"</field>
+        <field name="STANDARD">Manufacturer Recommendation</field>
+        <field name="SnapEDA_Link">https://www.snapeda.com/parts/0026604020/Molex/view-part/?ref=snap</field>
+      </fields>
+      <libsource lib="Conectores_Molex" part="Molex_156_2pines" description=""/>
+      <property name="MF" value="Molex"/>
+      <property name="Description" value="&#xA;Connector Header Through Hole 2 position 0.156 (3.96mm)&#xA;"/>
+      <property name="Package" value="None"/>
+      <property name="Price" value="None"/>
+      <property name="Check_prices" value="https://www.snapeda.com/parts/0026604020/Molex/view-part/?ref=eda"/>
+      <property name="STANDARD" value="Manufacturer Recommendation"/>
+      <property name="PARTREV" value="R"/>
+      <property name="SnapEDA_Link" value="https://www.snapeda.com/parts/0026604020/Molex/view-part/?ref=snap"/>
+      <property name="MP" value="0026604020"/>
+      <property name="Purchase-URL" value="https://www.snapeda.com/api/url_track_click_mouser/?unipart_id=702716&amp;manufacturer=Molex&amp;part_name=0026604020&amp;search_term=connector header through hole 2 position 0.156&quot;"/>
+      <property name="Availability" value="In Stock"/>
+      <property name="MANUFACTURER" value="MOLEX"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="AutoCompost_Placa.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>5194f46f-d747-4e32-908a-efb857686110</tstamps>
+    </comp>
+    <comp ref="DHT1">
+      <value>Molex 0.100</value>
+      <footprint>Conectores_Molex:Molex_100_3pines</footprint>
+      <fields>
+        <field name="Check_prices">https://www.snapeda.com/parts/0022272031/Molex/view-part/?ref=eda</field>
+        <field name="Description">
+Connector Header Through Hole 3 position 0.100 (2.54mm)
+</field>
+        <field name="DigiKey_Part_Number">WM4112-ND</field>
+        <field name="MANUFACTURER">MOLEX, LLC</field>
+        <field name="MF">Molex</field>
+        <field name="MP">0022272031</field>
+        <field name="PARTREV">BC1</field>
+        <field name="Package">None</field>
+        <field name="Purchase-URL">https://www.snapeda.com/api/url_track_click_mouser/?unipart_id=613100&amp;manufacturer=Molex&amp;part_name=0022272031&amp;search_term=connector header through hole 3 position 0.100"</field>
+        <field name="STANDARD">MANUFACTURER RECOMMENDATION</field>
+        <field name="SnapEDA_Link">https://www.snapeda.com/parts/0022272031/Molex/view-part/?ref=snap</field>
+      </fields>
+      <libsource lib="Conectores_Molex" part="Molex_100_3pines" description=""/>
+      <property name="DigiKey_Part_Number" value="WM4112-ND"/>
+      <property name="MF" value="Molex"/>
+      <property name="Purchase-URL" value="https://www.snapeda.com/api/url_track_click_mouser/?unipart_id=613100&amp;manufacturer=Molex&amp;part_name=0022272031&amp;search_term=connector header through hole 3 position 0.100&quot;"/>
+      <property name="Package" value="None"/>
+      <property name="Check_prices" value="https://www.snapeda.com/parts/0022272031/Molex/view-part/?ref=eda"/>
+      <property name="STANDARD" value="MANUFACTURER RECOMMENDATION"/>
+      <property name="PARTREV" value="BC1"/>
+      <property name="SnapEDA_Link" value="https://www.snapeda.com/parts/0022272031/Molex/view-part/?ref=snap"/>
+      <property name="MP" value="0022272031"/>
+      <property name="Description" value="&#xA;Connector Header Through Hole 3 position 0.100 (2.54mm)&#xA;"/>
+      <property name="MANUFACTURER" value="MOLEX, LLC"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="AutoCompost_Placa.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>dea6a4f3-a7ba-4bd2-8fca-b9e829da7091</tstamps>
+    </comp>
+    <comp ref="DS18B1">
+      <value>Molex 0.100</value>
+      <footprint>Conectores_Molex:Molex_100_3pines</footprint>
+      <fields>
+        <field name="Check_prices">https://www.snapeda.com/parts/0022272031/Molex/view-part/?ref=eda</field>
+        <field name="Description">
+Connector Header Through Hole 3 position 0.100 (2.54mm)
+</field>
+        <field name="DigiKey_Part_Number">WM4112-ND</field>
+        <field name="MANUFACTURER">MOLEX, LLC</field>
+        <field name="MF">Molex</field>
+        <field name="MP">0022272031</field>
+        <field name="PARTREV">BC1</field>
+        <field name="Package">None</field>
+        <field name="Purchase-URL">https://www.snapeda.com/api/url_track_click_mouser/?unipart_id=613100&amp;manufacturer=Molex&amp;part_name=0022272031&amp;search_term=connector header through hole 3 position 0.100"</field>
+        <field name="STANDARD">MANUFACTURER RECOMMENDATION</field>
+        <field name="SnapEDA_Link">https://www.snapeda.com/parts/0022272031/Molex/view-part/?ref=snap</field>
+      </fields>
+      <libsource lib="Conectores_Molex" part="Molex_100_3pines" description=""/>
+      <property name="DigiKey_Part_Number" value="WM4112-ND"/>
+      <property name="MF" value="Molex"/>
+      <property name="Purchase-URL" value="https://www.snapeda.com/api/url_track_click_mouser/?unipart_id=613100&amp;manufacturer=Molex&amp;part_name=0022272031&amp;search_term=connector header through hole 3 position 0.100&quot;"/>
+      <property name="Package" value="None"/>
+      <property name="Check_prices" value="https://www.snapeda.com/parts/0022272031/Molex/view-part/?ref=eda"/>
+      <property name="STANDARD" value="MANUFACTURER RECOMMENDATION"/>
+      <property name="PARTREV" value="BC1"/>
+      <property name="SnapEDA_Link" value="https://www.snapeda.com/parts/0022272031/Molex/view-part/?ref=snap"/>
+      <property name="MP" value="0022272031"/>
+      <property name="Description" value="&#xA;Connector Header Through Hole 3 position 0.100 (2.54mm)&#xA;"/>
+      <property name="MANUFACTURER" value="MOLEX, LLC"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="AutoCompost_Placa.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>5306d1a5-92b4-4b55-9ddd-7359629bcd41</tstamps>
+    </comp>
+    <comp ref="Fan1">
+      <value>Molex 0.156</value>
+      <footprint>Conectores_Molex:Molex_156_2pines</footprint>
+      <fields>
+        <field name="Availability">In Stock</field>
+        <field name="Check_prices">https://www.snapeda.com/parts/0026604020/Molex/view-part/?ref=eda</field>
+        <field name="Description">
+Connector Header Through Hole 2 position 0.156 (3.96mm)
+</field>
+        <field name="MANUFACTURER">MOLEX</field>
+        <field name="MF">Molex</field>
+        <field name="MP">0026604020</field>
+        <field name="PARTREV">R</field>
+        <field name="Package">None</field>
+        <field name="Price">None</field>
+        <field name="Purchase-URL">https://www.snapeda.com/api/url_track_click_mouser/?unipart_id=702716&amp;manufacturer=Molex&amp;part_name=0026604020&amp;search_term=connector header through hole 2 position 0.156"</field>
+        <field name="STANDARD">Manufacturer Recommendation</field>
+        <field name="SnapEDA_Link">https://www.snapeda.com/parts/0026604020/Molex/view-part/?ref=snap</field>
+      </fields>
+      <libsource lib="Conectores_Molex" part="Molex_156_2pines" description=""/>
+      <property name="MF" value="Molex"/>
+      <property name="Description" value="&#xA;Connector Header Through Hole 2 position 0.156 (3.96mm)&#xA;"/>
+      <property name="Package" value="None"/>
+      <property name="Price" value="None"/>
+      <property name="Check_prices" value="https://www.snapeda.com/parts/0026604020/Molex/view-part/?ref=eda"/>
+      <property name="STANDARD" value="Manufacturer Recommendation"/>
+      <property name="PARTREV" value="R"/>
+      <property name="SnapEDA_Link" value="https://www.snapeda.com/parts/0026604020/Molex/view-part/?ref=snap"/>
+      <property name="MP" value="0026604020"/>
+      <property name="Purchase-URL" value="https://www.snapeda.com/api/url_track_click_mouser/?unipart_id=702716&amp;manufacturer=Molex&amp;part_name=0026604020&amp;search_term=connector header through hole 2 position 0.156&quot;"/>
+      <property name="Availability" value="In Stock"/>
+      <property name="MANUFACTURER" value="MOLEX"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="AutoCompost_Placa.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>0ef8113a-2412-4217-b8d8-9a1cd4abd41a</tstamps>
+    </comp>
+    <comp ref="HC-SR1">
+      <value>Molex 0.100</value>
+      <footprint>Conectores_Molex:Molex_100_4pines</footprint>
+      <fields>
+        <field name="Availability">In Stock</field>
+        <field name="Check_prices">https://www.snapeda.com/parts/22-11-2042/Molex/view-part/?ref=eda</field>
+        <field name="Description">
+4 Position Header Spacer Connector 0.100 (2.54mm) Gold, GXT™ Through Hole
+</field>
+        <field name="MANUFACTURER">MOLEX</field>
+        <field name="MF">Molex</field>
+        <field name="MP">22-11-2042</field>
+        <field name="PARTREV">BD7</field>
+        <field name="Package">None</field>
+        <field name="Price">None</field>
+        <field name="STANDARD">Manufacturer Recommendation</field>
+        <field name="SnapEDA_Link">https://www.snapeda.com/parts/22-11-2042/Molex/view-part/?ref=snap</field>
+      </fields>
+      <libsource lib="Conectores_Molex" part="Molex_100_4pines" description=""/>
+      <property name="MF" value="Molex"/>
+      <property name="Description" value="&#xA;4 Position Header Spacer Connector 0.100 (2.54mm) Gold, GXT™ Through Hole&#xA;"/>
+      <property name="Package" value="None"/>
+      <property name="Price" value="None"/>
+      <property name="Check_prices" value="https://www.snapeda.com/parts/22-11-2042/Molex/view-part/?ref=eda"/>
+      <property name="STANDARD" value="Manufacturer Recommendation"/>
+      <property name="PARTREV" value="BD7"/>
+      <property name="SnapEDA_Link" value="https://www.snapeda.com/parts/22-11-2042/Molex/view-part/?ref=snap"/>
+      <property name="MP" value="22-11-2042"/>
+      <property name="Availability" value="In Stock"/>
+      <property name="MANUFACTURER" value="MOLEX"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="AutoCompost_Placa.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e73495db-4bca-42e4-8069-4f980b74ce17</tstamps>
+    </comp>
+    <comp ref="LCD1">
+      <value>Molex 0.100</value>
+      <footprint>Conectores_Molex:Molex_100_4pines</footprint>
+      <fields>
+        <field name="Availability">In Stock</field>
+        <field name="Check_prices">https://www.snapeda.com/parts/22-11-2042/Molex/view-part/?ref=eda</field>
+        <field name="Description">
+4 Position Header Spacer Connector 0.100 (2.54mm) Gold, GXT™ Through Hole
+</field>
+        <field name="MANUFACTURER">MOLEX</field>
+        <field name="MF">Molex</field>
+        <field name="MP">22-11-2042</field>
+        <field name="PARTREV">BD7</field>
+        <field name="Package">None</field>
+        <field name="Price">None</field>
+        <field name="STANDARD">Manufacturer Recommendation</field>
+        <field name="SnapEDA_Link">https://www.snapeda.com/parts/22-11-2042/Molex/view-part/?ref=snap</field>
+      </fields>
+      <libsource lib="Conectores_Molex" part="Molex_100_4pines" description=""/>
+      <property name="MF" value="Molex"/>
+      <property name="Description" value="&#xA;4 Position Header Spacer Connector 0.100 (2.54mm) Gold, GXT™ Through Hole&#xA;"/>
+      <property name="Package" value="None"/>
+      <property name="Price" value="None"/>
+      <property name="Check_prices" value="https://www.snapeda.com/parts/22-11-2042/Molex/view-part/?ref=eda"/>
+      <property name="STANDARD" value="Manufacturer Recommendation"/>
+      <property name="PARTREV" value="BD7"/>
+      <property name="SnapEDA_Link" value="https://www.snapeda.com/parts/22-11-2042/Molex/view-part/?ref=snap"/>
+      <property name="MP" value="22-11-2042"/>
+      <property name="Availability" value="In Stock"/>
+      <property name="MANUFACTURER" value="MOLEX"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="AutoCompost_Placa.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4e40e6e2-a690-4f08-8b49-3e211b78aed4</tstamps>
+    </comp>
+    <comp ref="Lock1">
+      <value>Molex 0.100</value>
+      <footprint>Conectores_Molex:Molex_100_2pines</footprint>
+      <fields>
+        <field name="Availability">In Stock</field>
+        <field name="Check_prices">https://www.snapeda.com/parts/0022272021/Molex/view-part/?ref=eda</field>
+        <field name="Description">
+Connector Header Through Hole 2 position 0.100 (2.54mm)
+</field>
+        <field name="MANUFACTURER">Molex</field>
+        <field name="MF">Molex</field>
+        <field name="MP">0022272021</field>
+        <field name="Package">None</field>
+        <field name="Price">None</field>
+        <field name="Purchase-URL">https://www.snapeda.com/api/url_track_click_mouser/?unipart_id=424357&amp;manufacturer=Molex&amp;part_name=0022272021&amp;search_term=molex connector header through hole 2 position 0.100"</field>
+        <field name="SnapEDA_Link">https://www.snapeda.com/parts/0022272021/Molex/view-part/?ref=snap</field>
+      </fields>
+      <libsource lib="Conectores_Molex" part="Molex_100_2pines" description=""/>
+      <property name="MF" value="Molex"/>
+      <property name="Description" value="&#xA;Connector Header Through Hole 2 position 0.100 (2.54mm)&#xA;"/>
+      <property name="Package" value="None"/>
+      <property name="Price" value="None"/>
+      <property name="Check_prices" value="https://www.snapeda.com/parts/0022272021/Molex/view-part/?ref=eda"/>
+      <property name="SnapEDA_Link" value="https://www.snapeda.com/parts/0022272021/Molex/view-part/?ref=snap"/>
+      <property name="MP" value="0022272021"/>
+      <property name="Purchase-URL" value="https://www.snapeda.com/api/url_track_click_mouser/?unipart_id=424357&amp;manufacturer=Molex&amp;part_name=0022272021&amp;search_term=molex connector header through hole 2 position 0.100&quot;"/>
+      <property name="Availability" value="In Stock"/>
+      <property name="MANUFACTURER" value="Molex"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="AutoCompost_Placa.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>bd7c21cc-8836-449f-9125-ac239f8f3c8f</tstamps>
+    </comp>
+    <comp ref="Lock2">
+      <value>Molex 0.100</value>
+      <footprint>Conectores_Molex:Molex_100_2pines</footprint>
+      <fields>
+        <field name="Availability">In Stock</field>
+        <field name="Check_prices">https://www.snapeda.com/parts/0022272021/Molex/view-part/?ref=eda</field>
+        <field name="Description">
+Connector Header Through Hole 2 position 0.100 (2.54mm)
+</field>
+        <field name="MANUFACTURER">Molex</field>
+        <field name="MF">Molex</field>
+        <field name="MP">0022272021</field>
+        <field name="Package">None</field>
+        <field name="Price">None</field>
+        <field name="Purchase-URL">https://www.snapeda.com/api/url_track_click_mouser/?unipart_id=424357&amp;manufacturer=Molex&amp;part_name=0022272021&amp;search_term=molex connector header through hole 2 position 0.100"</field>
+        <field name="SnapEDA_Link">https://www.snapeda.com/parts/0022272021/Molex/view-part/?ref=snap</field>
+      </fields>
+      <libsource lib="Conectores_Molex" part="Molex_100_2pines" description=""/>
+      <property name="MF" value="Molex"/>
+      <property name="Description" value="&#xA;Connector Header Through Hole 2 position 0.100 (2.54mm)&#xA;"/>
+      <property name="Package" value="None"/>
+      <property name="Price" value="None"/>
+      <property name="Check_prices" value="https://www.snapeda.com/parts/0022272021/Molex/view-part/?ref=eda"/>
+      <property name="SnapEDA_Link" value="https://www.snapeda.com/parts/0022272021/Molex/view-part/?ref=snap"/>
+      <property name="MP" value="0022272021"/>
+      <property name="Purchase-URL" value="https://www.snapeda.com/api/url_track_click_mouser/?unipart_id=424357&amp;manufacturer=Molex&amp;part_name=0022272021&amp;search_term=molex connector header through hole 2 position 0.100&quot;"/>
+      <property name="Availability" value="In Stock"/>
+      <property name="MANUFACTURER" value="Molex"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="AutoCompost_Placa.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>1200e292-ede5-4c28-878a-f094f1f1ed4a</tstamps>
+    </comp>
+    <comp ref="Mixer1">
+      <value>Molex 0.156</value>
+      <footprint>Conectores_Molex:Molex_156_2pines</footprint>
+      <fields>
+        <field name="Availability">In Stock</field>
+        <field name="Check_prices">https://www.snapeda.com/parts/0026604020/Molex/view-part/?ref=eda</field>
+        <field name="Description">
+Connector Header Through Hole 2 position 0.156 (3.96mm)
+</field>
+        <field name="MANUFACTURER">MOLEX</field>
+        <field name="MF">Molex</field>
+        <field name="MP">0026604020</field>
+        <field name="PARTREV">R</field>
+        <field name="Package">None</field>
+        <field name="Price">None</field>
+        <field name="Purchase-URL">https://www.snapeda.com/api/url_track_click_mouser/?unipart_id=702716&amp;manufacturer=Molex&amp;part_name=0026604020&amp;search_term=connector header through hole 2 position 0.156"</field>
+        <field name="STANDARD">Manufacturer Recommendation</field>
+        <field name="SnapEDA_Link">https://www.snapeda.com/parts/0026604020/Molex/view-part/?ref=snap</field>
+      </fields>
+      <libsource lib="Conectores_Molex" part="Molex_156_2pines" description=""/>
+      <property name="MF" value="Molex"/>
+      <property name="Description" value="&#xA;Connector Header Through Hole 2 position 0.156 (3.96mm)&#xA;"/>
+      <property name="Package" value="None"/>
+      <property name="Price" value="None"/>
+      <property name="Check_prices" value="https://www.snapeda.com/parts/0026604020/Molex/view-part/?ref=eda"/>
+      <property name="STANDARD" value="Manufacturer Recommendation"/>
+      <property name="PARTREV" value="R"/>
+      <property name="SnapEDA_Link" value="https://www.snapeda.com/parts/0026604020/Molex/view-part/?ref=snap"/>
+      <property name="MP" value="0026604020"/>
+      <property name="Purchase-URL" value="https://www.snapeda.com/api/url_track_click_mouser/?unipart_id=702716&amp;manufacturer=Molex&amp;part_name=0026604020&amp;search_term=connector header through hole 2 position 0.156&quot;"/>
+      <property name="Availability" value="In Stock"/>
+      <property name="MANUFACTURER" value="MOLEX"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="AutoCompost_Placa.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>3e8cbd97-5f9b-461c-8f1b-fb24581a91df</tstamps>
+    </comp>
+    <comp ref="QCrusher1">
+      <value>2N2222</value>
+      <footprint>2N2222:TO127P580H530-3</footprint>
+      <fields>
+        <field name="Availability">In Stock</field>
+        <field name="Check_prices">https://www.snapeda.com/parts/2N2222/STMicroelectronics/view-part/?ref=eda</field>
+        <field name="Description">
+Bipolar (BJT) Transistor NPN 30 V 600 mA 250MHz 500 mW Through Hole TO-18
+</field>
+        <field name="MANUFACTURER">STMicroelectronics</field>
+        <field name="MAXIMUM_PACKAGE_HEIGHT">7.3 mm</field>
+        <field name="MF">STMicroelectronics</field>
+        <field name="MP">2N2222</field>
+        <field name="PARTREV">January 1989</field>
+        <field name="Package">TO-18 Texas Instruments</field>
+        <field name="Price">None</field>
+        <field name="STANDARD">IPC 7351B</field>
+        <field name="SnapEDA_Link">https://www.snapeda.com/parts/2N2222/STMicroelectronics/view-part/?ref=snap</field>
+      </fields>
+      <libsource lib="2N2222" part="2N2222" description=""/>
+      <property name="MF" value="STMicroelectronics"/>
+      <property name="MAXIMUM_PACKAGE_HEIGHT" value="7.3 mm"/>
+      <property name="Package" value="TO-18 Texas Instruments"/>
+      <property name="Price" value="None"/>
+      <property name="Check_prices" value="https://www.snapeda.com/parts/2N2222/STMicroelectronics/view-part/?ref=eda"/>
+      <property name="STANDARD" value="IPC 7351B"/>
+      <property name="PARTREV" value="January 1989"/>
+      <property name="SnapEDA_Link" value="https://www.snapeda.com/parts/2N2222/STMicroelectronics/view-part/?ref=snap"/>
+      <property name="MP" value="2N2222"/>
+      <property name="Description" value="&#xA;Bipolar (BJT) Transistor NPN 30 V 600 mA 250MHz 500 mW Through Hole TO-18&#xA;"/>
+      <property name="Availability" value="In Stock"/>
+      <property name="MANUFACTURER" value="STMicroelectronics"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="AutoCompost_Placa.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>1619a2bd-bf92-4774-afea-c5ec5f12dc5d</tstamps>
+    </comp>
+    <comp ref="QFan1">
+      <value>2N2222</value>
+      <footprint>2N2222:TO127P580H530-3</footprint>
+      <fields>
+        <field name="Availability">In Stock</field>
+        <field name="Check_prices">https://www.snapeda.com/parts/2N2222/STMicroelectronics/view-part/?ref=eda</field>
+        <field name="Description">
+Bipolar (BJT) Transistor NPN 30 V 600 mA 250MHz 500 mW Through Hole TO-18
+</field>
+        <field name="MANUFACTURER">STMicroelectronics</field>
+        <field name="MAXIMUM_PACKAGE_HEIGHT">7.3 mm</field>
+        <field name="MF">STMicroelectronics</field>
+        <field name="MP">2N2222</field>
+        <field name="PARTREV">January 1989</field>
+        <field name="Package">TO-18 Texas Instruments</field>
+        <field name="Price">None</field>
+        <field name="STANDARD">IPC 7351B</field>
+        <field name="SnapEDA_Link">https://www.snapeda.com/parts/2N2222/STMicroelectronics/view-part/?ref=snap</field>
+      </fields>
+      <libsource lib="2N2222" part="2N2222" description=""/>
+      <property name="MF" value="STMicroelectronics"/>
+      <property name="MAXIMUM_PACKAGE_HEIGHT" value="7.3 mm"/>
+      <property name="Package" value="TO-18 Texas Instruments"/>
+      <property name="Price" value="None"/>
+      <property name="Check_prices" value="https://www.snapeda.com/parts/2N2222/STMicroelectronics/view-part/?ref=eda"/>
+      <property name="STANDARD" value="IPC 7351B"/>
+      <property name="PARTREV" value="January 1989"/>
+      <property name="SnapEDA_Link" value="https://www.snapeda.com/parts/2N2222/STMicroelectronics/view-part/?ref=snap"/>
+      <property name="MP" value="2N2222"/>
+      <property name="Description" value="&#xA;Bipolar (BJT) Transistor NPN 30 V 600 mA 250MHz 500 mW Through Hole TO-18&#xA;"/>
+      <property name="Availability" value="In Stock"/>
+      <property name="MANUFACTURER" value="STMicroelectronics"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="AutoCompost_Placa.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f13c55e9-c207-4b19-8250-a959978e374b</tstamps>
+    </comp>
+    <comp ref="QLock1">
+      <value>TIP120</value>
+      <footprint>Package_TO_SOT_THT:TO-220-3_Vertical</footprint>
+      <datasheet>https://www.onsemi.com/pub/Collateral/TIP120-D.PDF</datasheet>
+      <libsource lib="Transistor_BJT" part="TIP120" description="5A Ic, 60V Vce, Silicon Darlington Power NPN Transistor, TO-220"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="AutoCompost_Placa.kicad_sch"/>
+      <property name="ki_description" value="5A Ic, 60V Vce, Silicon Darlington Power NPN Transistor, TO-220"/>
+      <property name="ki_keywords" value="Darlington Power NPN Transistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>09e64bee-4c67-4b51-af84-5e3c488b4da0</tstamps>
+    </comp>
+    <comp ref="QMixer1">
+      <value>2N2222</value>
+      <footprint>2N2222:TO127P580H530-3</footprint>
+      <fields>
+        <field name="Availability">In Stock</field>
+        <field name="Check_prices">https://www.snapeda.com/parts/2N2222/STMicroelectronics/view-part/?ref=eda</field>
+        <field name="Description">
+Bipolar (BJT) Transistor NPN 30 V 600 mA 250MHz 500 mW Through Hole TO-18
+</field>
+        <field name="MANUFACTURER">STMicroelectronics</field>
+        <field name="MAXIMUM_PACKAGE_HEIGHT">7.3 mm</field>
+        <field name="MF">STMicroelectronics</field>
+        <field name="MP">2N2222</field>
+        <field name="PARTREV">January 1989</field>
+        <field name="Package">TO-18 Texas Instruments</field>
+        <field name="Price">None</field>
+        <field name="STANDARD">IPC 7351B</field>
+        <field name="SnapEDA_Link">https://www.snapeda.com/parts/2N2222/STMicroelectronics/view-part/?ref=snap</field>
+      </fields>
+      <libsource lib="2N2222" part="2N2222" description=""/>
+      <property name="MF" value="STMicroelectronics"/>
+      <property name="MAXIMUM_PACKAGE_HEIGHT" value="7.3 mm"/>
+      <property name="Package" value="TO-18 Texas Instruments"/>
+      <property name="Price" value="None"/>
+      <property name="Check_prices" value="https://www.snapeda.com/parts/2N2222/STMicroelectronics/view-part/?ref=eda"/>
+      <property name="STANDARD" value="IPC 7351B"/>
+      <property name="PARTREV" value="January 1989"/>
+      <property name="SnapEDA_Link" value="https://www.snapeda.com/parts/2N2222/STMicroelectronics/view-part/?ref=snap"/>
+      <property name="MP" value="2N2222"/>
+      <property name="Description" value="&#xA;Bipolar (BJT) Transistor NPN 30 V 600 mA 250MHz 500 mW Through Hole TO-18&#xA;"/>
+      <property name="Availability" value="In Stock"/>
+      <property name="MANUFACTURER" value="STMicroelectronics"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="AutoCompost_Placa.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>afe71882-3b7a-42ca-8dff-6df66ee5346d</tstamps>
+    </comp>
+    <comp ref="R1">
+      <value>4k7</value>
+      <footprint>Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="AutoCompost_Placa.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>0b09c963-252d-41c3-a0e6-21db53767cf2</tstamps>
+    </comp>
+    <comp ref="R2">
+      <value>4k7</value>
+      <footprint>Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="AutoCompost_Placa.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>01ad3979-f7ee-4e06-9889-8b3337958eeb</tstamps>
+    </comp>
+    <comp ref="RCrusher1">
+      <value>4k7</value>
+      <footprint>Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="AutoCompost_Placa.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d95c68b0-4cae-436e-9e42-a786ee1e1a9b</tstamps>
+    </comp>
+    <comp ref="RFan1">
+      <value>4k7</value>
+      <footprint>Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="AutoCompost_Placa.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>baaf1639-90e3-402a-92bf-e7d129060da2</tstamps>
+    </comp>
+    <comp ref="RLock1">
+      <value>2k2</value>
+      <footprint>Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="AutoCompost_Placa.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>14cfb4b5-240c-4f18-887f-22e83316908b</tstamps>
+    </comp>
+    <comp ref="RMixer1">
+      <value>4k7</value>
+      <footprint>Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="AutoCompost_Placa.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e5acbcc1-4ec2-4f07-93f2-b5152024a6d3</tstamps>
+    </comp>
+    <comp ref="SSR_Cruhser1">
+      <value>G3MB202PDC12</value>
+      <footprint>G3MB202PDC12:RELAY_G3MB202PDC12</footprint>
+      <fields>
+        <field name="Availability">In Stock</field>
+        <field name="Check_prices">https://www.snapeda.com/parts/G3MB-202P-DC12/Omron+Automation+and+Safety/view-part/?ref=eda</field>
+        <field name="Description">
+Solid State Relays - PCB Mount 12VDC/100-240VAC 2A
+</field>
+        <field name="MANUFACTURER">Omron</field>
+        <field name="MF">Omron Automation and Safety</field>
+        <field name="MP">G3MB-202P-DC12</field>
+        <field name="PARTREV">N/A</field>
+        <field name="Package">SIP-4 Omron Automation</field>
+        <field name="Price">None</field>
+        <field name="Purchase-URL">https://www.snapeda.com/api/url_track_click_mouser/?unipart_id=6617368&amp;manufacturer=Omron Automation and Safety&amp;part_name=G3MB-202P-DC12&amp;search_term= g3mb-202p</field>
+        <field name="STANDARD">Manufacturer Recommendation</field>
+        <field name="SnapEDA_Link">https://www.snapeda.com/parts/G3MB-202P-DC12/Omron+Automation+and+Safety/view-part/?ref=snap</field>
+      </fields>
+      <libsource lib="G3MB202PDC12" part="G3MB202PDC12" description=""/>
+      <property name="MF" value="Omron Automation and Safety"/>
+      <property name="Description" value="&#xA;Solid State Relays - PCB Mount 12VDC/100-240VAC 2A&#xA;"/>
+      <property name="Package" value="SIP-4 Omron Automation"/>
+      <property name="Price" value="None"/>
+      <property name="Check_prices" value="https://www.snapeda.com/parts/G3MB-202P-DC12/Omron+Automation+and+Safety/view-part/?ref=eda"/>
+      <property name="STANDARD" value="Manufacturer Recommendation"/>
+      <property name="PARTREV" value="N/A"/>
+      <property name="SnapEDA_Link" value="https://www.snapeda.com/parts/G3MB-202P-DC12/Omron+Automation+and+Safety/view-part/?ref=snap"/>
+      <property name="MP" value="G3MB-202P-DC12"/>
+      <property name="Purchase-URL" value="https://www.snapeda.com/api/url_track_click_mouser/?unipart_id=6617368&amp;manufacturer=Omron Automation and Safety&amp;part_name=G3MB-202P-DC12&amp;search_term= g3mb-202p"/>
+      <property name="Availability" value="In Stock"/>
+      <property name="MANUFACTURER" value="Omron"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="AutoCompost_Placa.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>7c4b848e-3063-41cd-b699-702598391567</tstamps>
+    </comp>
+    <comp ref="SSR_Fan1">
+      <value>G3MB202PDC12</value>
+      <footprint>G3MB202PDC12:RELAY_G3MB202PDC12</footprint>
+      <fields>
+        <field name="Availability">In Stock</field>
+        <field name="Check_prices">https://www.snapeda.com/parts/G3MB-202P-DC12/Omron+Automation+and+Safety/view-part/?ref=eda</field>
+        <field name="Description">
+Solid State Relays - PCB Mount 12VDC/100-240VAC 2A
+</field>
+        <field name="MANUFACTURER">Omron</field>
+        <field name="MF">Omron Automation and Safety</field>
+        <field name="MP">G3MB-202P-DC12</field>
+        <field name="PARTREV">N/A</field>
+        <field name="Package">SIP-4 Omron Automation</field>
+        <field name="Price">None</field>
+        <field name="Purchase-URL">https://www.snapeda.com/api/url_track_click_mouser/?unipart_id=6617368&amp;manufacturer=Omron Automation and Safety&amp;part_name=G3MB-202P-DC12&amp;search_term= g3mb-202p</field>
+        <field name="STANDARD">Manufacturer Recommendation</field>
+        <field name="SnapEDA_Link">https://www.snapeda.com/parts/G3MB-202P-DC12/Omron+Automation+and+Safety/view-part/?ref=snap</field>
+      </fields>
+      <libsource lib="G3MB202PDC12" part="G3MB202PDC12" description=""/>
+      <property name="MF" value="Omron Automation and Safety"/>
+      <property name="Description" value="&#xA;Solid State Relays - PCB Mount 12VDC/100-240VAC 2A&#xA;"/>
+      <property name="Package" value="SIP-4 Omron Automation"/>
+      <property name="Price" value="None"/>
+      <property name="Check_prices" value="https://www.snapeda.com/parts/G3MB-202P-DC12/Omron+Automation+and+Safety/view-part/?ref=eda"/>
+      <property name="STANDARD" value="Manufacturer Recommendation"/>
+      <property name="PARTREV" value="N/A"/>
+      <property name="SnapEDA_Link" value="https://www.snapeda.com/parts/G3MB-202P-DC12/Omron+Automation+and+Safety/view-part/?ref=snap"/>
+      <property name="MP" value="G3MB-202P-DC12"/>
+      <property name="Purchase-URL" value="https://www.snapeda.com/api/url_track_click_mouser/?unipart_id=6617368&amp;manufacturer=Omron Automation and Safety&amp;part_name=G3MB-202P-DC12&amp;search_term= g3mb-202p"/>
+      <property name="Availability" value="In Stock"/>
+      <property name="MANUFACTURER" value="Omron"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="AutoCompost_Placa.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e18d3a7d-3fa9-4a0c-b369-b3753946757b</tstamps>
+    </comp>
+    <comp ref="SSR_Mixer1">
+      <value>G3MB202PDC12</value>
+      <footprint>G3MB202PDC12:RELAY_G3MB202PDC12</footprint>
+      <fields>
+        <field name="Availability">In Stock</field>
+        <field name="Check_prices">https://www.snapeda.com/parts/G3MB-202P-DC12/Omron+Automation+and+Safety/view-part/?ref=eda</field>
+        <field name="Description">
+Solid State Relays - PCB Mount 12VDC/100-240VAC 2A
+</field>
+        <field name="MANUFACTURER">Omron</field>
+        <field name="MF">Omron Automation and Safety</field>
+        <field name="MP">G3MB-202P-DC12</field>
+        <field name="PARTREV">N/A</field>
+        <field name="Package">SIP-4 Omron Automation</field>
+        <field name="Price">None</field>
+        <field name="Purchase-URL">https://www.snapeda.com/api/url_track_click_mouser/?unipart_id=6617368&amp;manufacturer=Omron Automation and Safety&amp;part_name=G3MB-202P-DC12&amp;search_term= g3mb-202p</field>
+        <field name="STANDARD">Manufacturer Recommendation</field>
+        <field name="SnapEDA_Link">https://www.snapeda.com/parts/G3MB-202P-DC12/Omron+Automation+and+Safety/view-part/?ref=snap</field>
+      </fields>
+      <libsource lib="G3MB202PDC12" part="G3MB202PDC12" description=""/>
+      <property name="MF" value="Omron Automation and Safety"/>
+      <property name="Description" value="&#xA;Solid State Relays - PCB Mount 12VDC/100-240VAC 2A&#xA;"/>
+      <property name="Package" value="SIP-4 Omron Automation"/>
+      <property name="Price" value="None"/>
+      <property name="Check_prices" value="https://www.snapeda.com/parts/G3MB-202P-DC12/Omron+Automation+and+Safety/view-part/?ref=eda"/>
+      <property name="STANDARD" value="Manufacturer Recommendation"/>
+      <property name="PARTREV" value="N/A"/>
+      <property name="SnapEDA_Link" value="https://www.snapeda.com/parts/G3MB-202P-DC12/Omron+Automation+and+Safety/view-part/?ref=snap"/>
+      <property name="MP" value="G3MB-202P-DC12"/>
+      <property name="Purchase-URL" value="https://www.snapeda.com/api/url_track_click_mouser/?unipart_id=6617368&amp;manufacturer=Omron Automation and Safety&amp;part_name=G3MB-202P-DC12&amp;search_term= g3mb-202p"/>
+      <property name="Availability" value="In Stock"/>
+      <property name="MANUFACTURER" value="Omron"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="AutoCompost_Placa.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c47b54d2-bcf4-42a4-9d63-079841561d3d</tstamps>
+    </comp>
+    <comp ref="U1">
+      <value>LM7805_TO220</value>
+      <footprint>Package_TO_SOT_THT:TO-220-3_Vertical</footprint>
+      <datasheet>https://www.onsemi.cn/PowerSolutions/document/MC7800-D.PDF</datasheet>
+      <libsource lib="Regulator_Linear" part="LM7805_TO220" description="Positive 1A 35V Linear Regulator, Fixed Output 5V, TO-220"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="AutoCompost_Placa.kicad_sch"/>
+      <property name="ki_description" value="Positive 1A 35V Linear Regulator, Fixed Output 5V, TO-220"/>
+      <property name="ki_keywords" value="Voltage Regulator 1A Positive"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c9228b05-d9b8-45e7-b849-cd7e8913623f</tstamps>
+    </comp>
+    <comp ref="U2">
+      <value>ESP32-DEVKIT-V1</value>
+      <footprint>ESP32-DEVKIT-V1:MODULE_ESP32_DEVKIT_V1</footprint>
+      <fields>
+        <field name="Availability">Not in stock</field>
+        <field name="Check_prices">https://www.snapeda.com/parts/ESP32-DEVKIT-V1/Do+it/view-part/?ref=eda</field>
+        <field name="Description">
+Dual core, Wi-Fi: 2.4 GHz up to 150 Mbits/s,BLE (Bluetooth Low Energy) and legacy Bluetooth, 32 bits, Up to 240 MHz
+</field>
+        <field name="MANUFACTURER">DOIT</field>
+        <field name="MAXIMUM_PACKAGE_HEIGHT">6.8 mm</field>
+        <field name="MF">Do it</field>
+        <field name="MP">ESP32-DEVKIT-V1</field>
+        <field name="PARTREV">N/A</field>
+        <field name="Package">None</field>
+        <field name="Price">None</field>
+        <field name="STANDARD">Manufacturer Recommendations</field>
+        <field name="SnapEDA_Link">https://www.snapeda.com/parts/ESP32-DEVKIT-V1/Do+it/view-part/?ref=snap</field>
+      </fields>
+      <libsource lib="ESP32-DEVKIT-V1" part="ESP32-DEVKIT-V1" description=""/>
+      <property name="MF" value="Do it"/>
+      <property name="MAXIMUM_PACKAGE_HEIGHT" value="6.8 mm"/>
+      <property name="Package" value="None"/>
+      <property name="Price" value="None"/>
+      <property name="Check_prices" value="https://www.snapeda.com/parts/ESP32-DEVKIT-V1/Do+it/view-part/?ref=eda"/>
+      <property name="STANDARD" value="Manufacturer Recommendations"/>
+      <property name="PARTREV" value="N/A"/>
+      <property name="SnapEDA_Link" value="https://www.snapeda.com/parts/ESP32-DEVKIT-V1/Do+it/view-part/?ref=snap"/>
+      <property name="MP" value="ESP32-DEVKIT-V1"/>
+      <property name="Description" value="&#xA;Dual core, Wi-Fi: 2.4 GHz up to 150 Mbits/s,BLE (Bluetooth Low Energy) and legacy Bluetooth, 32 bits, Up to 240 MHz&#xA;"/>
+      <property name="Availability" value="Not in stock"/>
+      <property name="MANUFACTURER" value="DOIT"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="AutoCompost_Placa.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>749b6211-98c8-48e9-8ea2-1d44c4e01473</tstamps>
+    </comp>
+    <comp ref="Vext1">
+      <value>Molex 0.156</value>
+      <footprint>Conectores_Molex:Molex_156_2pines</footprint>
+      <fields>
+        <field name="Availability">In Stock</field>
+        <field name="Check_prices">https://www.snapeda.com/parts/0026604020/Molex/view-part/?ref=eda</field>
+        <field name="Description">
+Connector Header Through Hole 2 position 0.156 (3.96mm)
+</field>
+        <field name="MANUFACTURER">MOLEX</field>
+        <field name="MF">Molex</field>
+        <field name="MP">0026604020</field>
+        <field name="PARTREV">R</field>
+        <field name="Package">None</field>
+        <field name="Price">None</field>
+        <field name="Purchase-URL">https://www.snapeda.com/api/url_track_click_mouser/?unipart_id=702716&amp;manufacturer=Molex&amp;part_name=0026604020&amp;search_term=connector header through hole 2 position 0.156"</field>
+        <field name="STANDARD">Manufacturer Recommendation</field>
+        <field name="SnapEDA_Link">https://www.snapeda.com/parts/0026604020/Molex/view-part/?ref=snap</field>
+      </fields>
+      <libsource lib="Conectores_Molex" part="Molex_156_2pines" description=""/>
+      <property name="MF" value="Molex"/>
+      <property name="Description" value="&#xA;Connector Header Through Hole 2 position 0.156 (3.96mm)&#xA;"/>
+      <property name="Package" value="None"/>
+      <property name="Price" value="None"/>
+      <property name="Check_prices" value="https://www.snapeda.com/parts/0026604020/Molex/view-part/?ref=eda"/>
+      <property name="STANDARD" value="Manufacturer Recommendation"/>
+      <property name="PARTREV" value="R"/>
+      <property name="SnapEDA_Link" value="https://www.snapeda.com/parts/0026604020/Molex/view-part/?ref=snap"/>
+      <property name="MP" value="0026604020"/>
+      <property name="Purchase-URL" value="https://www.snapeda.com/api/url_track_click_mouser/?unipart_id=702716&amp;manufacturer=Molex&amp;part_name=0026604020&amp;search_term=connector header through hole 2 position 0.156&quot;"/>
+      <property name="Availability" value="In Stock"/>
+      <property name="MANUFACTURER" value="MOLEX"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="AutoCompost_Placa.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e715f840-2b34-4f95-903e-5955b55573bb</tstamps>
+    </comp>
+  </components>
+  <libparts>
+    <libpart lib="2N2222" part="2N2222">
+      <fields>
+        <field name="Reference">Q</field>
+        <field name="Value">2N2222</field>
+        <field name="Footprint">2N2222:TO127P580H530-3</field>
+        <field name="MF">STMicroelectronics</field>
+        <field name="MAXIMUM_PACKAGE_HEIGHT">7.3 mm</field>
+        <field name="Package">TO-18 Texas Instruments</field>
+        <field name="Price">None</field>
+        <field name="Check_prices">https://www.snapeda.com/parts/2N2222/STMicroelectronics/view-part/?ref=eda</field>
+        <field name="STANDARD">IPC 7351B</field>
+        <field name="PARTREV">January 1989</field>
+        <field name="SnapEDA_Link">https://www.snapeda.com/parts/2N2222/STMicroelectronics/view-part/?ref=snap</field>
+        <field name="MP">2N2222</field>
+        <field name="Description">
+Bipolar (BJT) Transistor NPN 30 V 600 mA 250MHz 500 mW Through Hole TO-18
+</field>
+        <field name="Availability">In Stock</field>
+        <field name="MANUFACTURER">STMicroelectronics</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+        <pin num="3" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Conectores_Molex" part="Molex_100_2pines">
+      <fields>
+        <field name="Reference">P</field>
+        <field name="Value">Molex 0.100</field>
+        <field name="Footprint">Conectores_Molex:Molex_100_2pines</field>
+        <field name="MF">Molex</field>
+        <field name="Description">
+Connector Header Through Hole 2 position 0.100 (2.54mm)
+</field>
+        <field name="Package">None</field>
+        <field name="Price">None</field>
+        <field name="Check_prices">https://www.snapeda.com/parts/0022272021/Molex/view-part/?ref=eda</field>
+        <field name="SnapEDA_Link">https://www.snapeda.com/parts/0022272021/Molex/view-part/?ref=snap</field>
+        <field name="MP">0022272021</field>
+        <field name="Purchase-URL">https://www.snapeda.com/api/url_track_click_mouser/?unipart_id=424357&amp;manufacturer=Molex&amp;part_name=0022272021&amp;search_term=molex connector header through hole 2 position 0.100"</field>
+        <field name="Availability">In Stock</field>
+        <field name="MANUFACTURER">Molex</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Conectores_Molex" part="Molex_100_3pines">
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Molex 0.100</field>
+        <field name="Footprint">Conectores_Molex:Molex_100_3pines</field>
+        <field name="DigiKey_Part_Number">WM4112-ND</field>
+        <field name="MF">Molex</field>
+        <field name="Purchase-URL">https://www.snapeda.com/api/url_track_click_mouser/?unipart_id=613100&amp;manufacturer=Molex&amp;part_name=0022272031&amp;search_term=connector header through hole 3 position 0.100"</field>
+        <field name="Package">None</field>
+        <field name="Check_prices">https://www.snapeda.com/parts/0022272031/Molex/view-part/?ref=eda</field>
+        <field name="STANDARD">MANUFACTURER RECOMMENDATION</field>
+        <field name="PARTREV">BC1</field>
+        <field name="SnapEDA_Link">https://www.snapeda.com/parts/0022272031/Molex/view-part/?ref=snap</field>
+        <field name="MP">0022272031</field>
+        <field name="Description">
+Connector Header Through Hole 3 position 0.100 (2.54mm)
+</field>
+        <field name="MANUFACTURER">MOLEX, LLC</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+        <pin num="3" name="3" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Conectores_Molex" part="Molex_100_4pines">
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Molex 0.100</field>
+        <field name="Footprint">Conectores_Molex:Molex_100_4pines</field>
+        <field name="MF">Molex</field>
+        <field name="Description">
+4 Position Header Spacer Connector 0.100 (2.54mm) Gold, GXT™ Through Hole
+</field>
+        <field name="Package">None</field>
+        <field name="Price">None</field>
+        <field name="Check_prices">https://www.snapeda.com/parts/22-11-2042/Molex/view-part/?ref=eda</field>
+        <field name="STANDARD">Manufacturer Recommendation</field>
+        <field name="PARTREV">BD7</field>
+        <field name="SnapEDA_Link">https://www.snapeda.com/parts/22-11-2042/Molex/view-part/?ref=snap</field>
+        <field name="MP">22-11-2042</field>
+        <field name="Availability">In Stock</field>
+        <field name="MANUFACTURER">MOLEX</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+        <pin num="3" name="3" type="passive"/>
+        <pin num="4" name="4" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Conectores_Molex" part="Molex_156_2pines">
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Molex 0.156</field>
+        <field name="Footprint">Conectores_Molex:Molex_156_2pines</field>
+        <field name="MF">Molex</field>
+        <field name="Description">
+Connector Header Through Hole 2 position 0.156 (3.96mm)
+</field>
+        <field name="Package">None</field>
+        <field name="Price">None</field>
+        <field name="Check_prices">https://www.snapeda.com/parts/0026604020/Molex/view-part/?ref=eda</field>
+        <field name="STANDARD">Manufacturer Recommendation</field>
+        <field name="PARTREV">R</field>
+        <field name="SnapEDA_Link">https://www.snapeda.com/parts/0026604020/Molex/view-part/?ref=snap</field>
+        <field name="MP">0026604020</field>
+        <field name="Purchase-URL">https://www.snapeda.com/api/url_track_click_mouser/?unipart_id=702716&amp;manufacturer=Molex&amp;part_name=0026604020&amp;search_term=connector header through hole 2 position 0.156"</field>
+        <field name="Availability">In Stock</field>
+        <field name="MANUFACTURER">MOLEX</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="C">
+      <description>Unpolarized capacitor</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>C_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">C</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="R">
+      <description>Resistor</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>R_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">R</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="ESP32-DEVKIT-V1" part="ESP32-DEVKIT-V1">
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">ESP32-DEVKIT-V1</field>
+        <field name="Footprint">ESP32-DEVKIT-V1:MODULE_ESP32_DEVKIT_V1</field>
+        <field name="MF">Do it</field>
+        <field name="MAXIMUM_PACKAGE_HEIGHT">6.8 mm</field>
+        <field name="Package">None</field>
+        <field name="Price">None</field>
+        <field name="Check_prices">https://www.snapeda.com/parts/ESP32-DEVKIT-V1/Do+it/view-part/?ref=eda</field>
+        <field name="STANDARD">Manufacturer Recommendations</field>
+        <field name="PARTREV">N/A</field>
+        <field name="SnapEDA_Link">https://www.snapeda.com/parts/ESP32-DEVKIT-V1/Do+it/view-part/?ref=snap</field>
+        <field name="MP">ESP32-DEVKIT-V1</field>
+        <field name="Description">
+Dual core, Wi-Fi: 2.4 GHz up to 150 Mbits/s,BLE (Bluetooth Low Energy) and legacy Bluetooth, 32 bits, Up to 240 MHz
+</field>
+        <field name="Availability">Not in stock</field>
+        <field name="MANUFACTURER">DOIT</field>
+      </fields>
+      <pins>
+        <pin num="1" name="3V3" type="output"/>
+        <pin num="2" name="GND" type="power_in"/>
+        <pin num="3" name="D15" type="bidirectional"/>
+        <pin num="4" name="D2" type="bidirectional"/>
+        <pin num="5" name="D4" type="bidirectional"/>
+        <pin num="6" name="RX2" type="input"/>
+        <pin num="7" name="TX2" type="output"/>
+        <pin num="8" name="D5" type="bidirectional"/>
+        <pin num="9" name="D18" type="bidirectional"/>
+        <pin num="10" name="D19" type="bidirectional"/>
+        <pin num="11" name="D21" type="bidirectional"/>
+        <pin num="12" name="RX0" type="input"/>
+        <pin num="13" name="TX0" type="output"/>
+        <pin num="14" name="D22" type="bidirectional"/>
+        <pin num="15" name="D23" type="bidirectional"/>
+        <pin num="16" name="EN" type="input"/>
+        <pin num="17" name="VP" type="bidirectional"/>
+        <pin num="18" name="VN" type="bidirectional"/>
+        <pin num="19" name="D34" type="bidirectional"/>
+        <pin num="20" name="D35" type="bidirectional"/>
+        <pin num="21" name="D32" type="bidirectional"/>
+        <pin num="22" name="D33" type="bidirectional"/>
+        <pin num="23" name="D25" type="bidirectional"/>
+        <pin num="24" name="D26" type="bidirectional"/>
+        <pin num="25" name="D27" type="bidirectional"/>
+        <pin num="26" name="D14" type="bidirectional"/>
+        <pin num="27" name="D12" type="bidirectional"/>
+        <pin num="28" name="D13" type="bidirectional"/>
+        <pin num="29" name="GND" type="power_in"/>
+        <pin num="30" name="VIN" type="input"/>
+      </pins>
+    </libpart>
+    <libpart lib="G3MB202PDC12" part="G3MB202PDC12">
+      <fields>
+        <field name="Reference">K</field>
+        <field name="Value">G3MB202PDC12</field>
+        <field name="Footprint">G3MB202PDC12:RELAY_G3MB202PDC12</field>
+        <field name="MF">Omron Automation and Safety</field>
+        <field name="Description">
+Solid State Relays - PCB Mount 12VDC/100-240VAC 2A
+</field>
+        <field name="Package">SIP-4 Omron Automation</field>
+        <field name="Price">None</field>
+        <field name="Check_prices">https://www.snapeda.com/parts/G3MB-202P-DC12/Omron+Automation+and+Safety/view-part/?ref=eda</field>
+        <field name="STANDARD">Manufacturer Recommendation</field>
+        <field name="PARTREV">N/A</field>
+        <field name="SnapEDA_Link">https://www.snapeda.com/parts/G3MB-202P-DC12/Omron+Automation+and+Safety/view-part/?ref=snap</field>
+        <field name="MP">G3MB-202P-DC12</field>
+        <field name="Purchase-URL">https://www.snapeda.com/api/url_track_click_mouser/?unipart_id=6617368&amp;manufacturer=Omron Automation and Safety&amp;part_name=G3MB-202P-DC12&amp;search_term= g3mb-202p</field>
+        <field name="Availability">In Stock</field>
+        <field name="MANUFACTURER">Omron</field>
+      </fields>
+      <pins>
+        <pin num="1" name="L1" type="power_in"/>
+        <pin num="2" name="L2" type="power_in"/>
+        <pin num="3" name="+" type="power_in"/>
+        <pin num="4" name="-" type="power_in"/>
+      </pins>
+    </libpart>
+    <libpart lib="Regulator_Linear" part="LM7805_TO220">
+      <description>Positive 1A 35V Linear Regulator, Fixed Output 5V, TO-220</description>
+      <docs>https://www.onsemi.cn/PowerSolutions/document/MC7800-D.PDF</docs>
+      <footprints>
+        <fp>TO?220*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">LM7805_TO220</field>
+        <field name="Footprint">Package_TO_SOT_THT:TO-220-3_Vertical</field>
+        <field name="Datasheet">https://www.onsemi.cn/PowerSolutions/document/MC7800-D.PDF</field>
+      </fields>
+      <pins>
+        <pin num="1" name="VI" type="power_in"/>
+        <pin num="2" name="GND" type="power_in"/>
+        <pin num="3" name="VO" type="power_out"/>
+      </pins>
+    </libpart>
+    <libpart lib="Transistor_BJT" part="TIP120">
+      <description>5A Ic, 60V Vce, Silicon Darlington Power NPN Transistor, TO-220</description>
+      <docs>https://www.onsemi.com/pub/Collateral/TIP120-D.PDF</docs>
+      <footprints>
+        <fp>TO?220*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">Q</field>
+        <field name="Value">TIP120</field>
+        <field name="Footprint">Package_TO_SOT_THT:TO-220-3_Vertical</field>
+        <field name="Datasheet">https://www.onsemi.com/pub/Collateral/TIP120-D.PDF</field>
+      </fields>
+      <pins>
+        <pin num="1" name="B" type="input"/>
+        <pin num="2" name="C" type="passive"/>
+        <pin num="3" name="E" type="passive"/>
+      </pins>
+    </libpart>
+  </libparts>
+  <libraries>
+    <library logical="2N2222">
+      <uri>C:/Lucas/FIUBA/TPP/Hardware/Placa/Componentes/2N2222/2N2222.kicad_sym</uri>
+    </library>
+    <library logical="Conectores_Molex">
+      <uri>C:/Lucas/FIUBA/TPP/Hardware/Placa/Componentes/Molex_156_2pines/Molex_156_2pines.kicad_sym</uri>
+    </library>
+    <library logical="Device">
+      <uri>C:\Program Files\KiCad\7.0\share\kicad\symbols\/Device.kicad_sym</uri>
+    </library>
+    <library logical="ESP32-DEVKIT-V1">
+      <uri>C:/Lucas/FIUBA/TPP/Hardware/Placa/Componentes/ESP32-DEVKIT-V1/ESP32-DEVKIT-V1.kicad_sym</uri>
+    </library>
+    <library logical="G3MB202PDC12">
+      <uri>C:/Lucas/FIUBA/TPP/Hardware/Placa/Componentes/G3MB202PDC12/G3MB202PDC12.kicad_sym</uri>
+    </library>
+    <library logical="Regulator_Linear">
+      <uri>C:\Program Files\KiCad\7.0\share\kicad\symbols\/Regulator_Linear.kicad_sym</uri>
+    </library>
+    <library logical="Transistor_BJT">
+      <uri>C:\Program Files\KiCad\7.0\share\kicad\symbols\/Transistor_BJT.kicad_sym</uri>
+    </library>
+  </libraries>
+  <nets>
+    <net code="1" name="/3V3">
+      <node ref="DHT1" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="DS18B1" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="R1" pin="1" pintype="passive"/>
+      <node ref="R2" pin="1" pintype="passive"/>
+      <node ref="U2" pin="1" pinfunction="3V3" pintype="output"/>
+    </net>
+    <net code="2" name="/Crusher">
+      <node ref="RCrusher1" pin="2" pintype="passive"/>
+      <node ref="U2" pin="4" pinfunction="D2" pintype="bidirectional"/>
+    </net>
+    <net code="3" name="/DHT">
+      <node ref="DHT1" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="R1" pin="2" pintype="passive"/>
+      <node ref="U2" pin="25" pinfunction="D27" pintype="bidirectional"/>
+    </net>
+    <net code="4" name="/DS18B20">
+      <node ref="DS18B1" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="R2" pin="2" pintype="passive"/>
+      <node ref="U2" pin="8" pinfunction="D5" pintype="bidirectional"/>
+    </net>
+    <net code="5" name="/Echo_HC-SR04">
+      <node ref="HC-SR1" pin="3" pinfunction="3" pintype="passive"/>
+      <node ref="U2" pin="9" pinfunction="D18" pintype="bidirectional"/>
+    </net>
+    <net code="6" name="/Fan">
+      <node ref="RFan1" pin="2" pintype="passive"/>
+      <node ref="U2" pin="5" pinfunction="D4" pintype="bidirectional"/>
+    </net>
+    <net code="7" name="/LCD_SCL">
+      <node ref="LCD1" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U2" pin="14" pinfunction="D22" pintype="bidirectional"/>
+    </net>
+    <net code="8" name="/LCD_SDA">
+      <node ref="LCD1" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="U2" pin="11" pinfunction="D21" pintype="bidirectional"/>
+    </net>
+    <net code="9" name="/Lid">
+      <node ref="Lock2" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U2" pin="24" pinfunction="D26" pintype="bidirectional"/>
+    </net>
+    <net code="10" name="/Lock">
+      <node ref="RLock1" pin="2" pintype="passive"/>
+      <node ref="U2" pin="22" pinfunction="D33" pintype="bidirectional"/>
+    </net>
+    <net code="11" name="/Mixer">
+      <node ref="RMixer1" pin="2" pintype="passive"/>
+      <node ref="U2" pin="27" pinfunction="D12" pintype="bidirectional"/>
+    </net>
+    <net code="12" name="/Trig_HC-SR04">
+      <node ref="HC-SR1" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="U2" pin="10" pinfunction="D19" pintype="bidirectional"/>
+    </net>
+    <net code="13" name="/VCC">
+      <node ref="C1" pin="1" pintype="passive"/>
+      <node ref="Lock1" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U1" pin="1" pinfunction="VI" pintype="power_in"/>
+      <node ref="Vext1" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="14" name="5V">
+      <node ref="5V1" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="C2" pin="1" pintype="passive"/>
+      <node ref="HC-SR1" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="LCD1" pin="3" pinfunction="3" pintype="passive"/>
+      <node ref="SSR_Cruhser1" pin="3" pinfunction="+" pintype="power_in"/>
+      <node ref="SSR_Fan1" pin="3" pinfunction="+" pintype="power_in"/>
+      <node ref="SSR_Mixer1" pin="3" pinfunction="+" pintype="power_in"/>
+      <node ref="U1" pin="3" pinfunction="VO" pintype="power_out"/>
+      <node ref="U2" pin="30" pinfunction="VIN" pintype="input"/>
+    </net>
+    <net code="15" name="GND">
+      <node ref="5V1" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="C1" pin="2" pintype="passive"/>
+      <node ref="C2" pin="2" pintype="passive"/>
+      <node ref="DHT1" pin="3" pinfunction="3" pintype="passive"/>
+      <node ref="DS18B1" pin="3" pinfunction="3" pintype="passive"/>
+      <node ref="HC-SR1" pin="4" pinfunction="4" pintype="passive"/>
+      <node ref="LCD1" pin="4" pinfunction="4" pintype="passive"/>
+      <node ref="Lock2" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="QCrusher1" pin="3" pintype="passive"/>
+      <node ref="QFan1" pin="3" pintype="passive"/>
+      <node ref="QLock1" pin="3" pinfunction="E" pintype="passive"/>
+      <node ref="QMixer1" pin="3" pintype="passive"/>
+      <node ref="U1" pin="2" pinfunction="GND" pintype="power_in"/>
+      <node ref="U2" pin="2" pinfunction="GND" pintype="power_in"/>
+      <node ref="U2" pin="29" pinfunction="GND" pintype="power_in"/>
+      <node ref="Vext1" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="16" name="Net-(QCrusher1-Pad2)">
+      <node ref="QCrusher1" pin="2" pintype="passive"/>
+      <node ref="RCrusher1" pin="1" pintype="passive"/>
+    </net>
+    <net code="17" name="Net-(QFan1-Pad2)">
+      <node ref="QFan1" pin="2" pintype="passive"/>
+      <node ref="RFan1" pin="1" pintype="passive"/>
+    </net>
+    <net code="18" name="Net-(QLock1-B)">
+      <node ref="QLock1" pin="1" pinfunction="B" pintype="input"/>
+      <node ref="RLock1" pin="1" pintype="passive"/>
+    </net>
+    <net code="19" name="Net-(QLock1-C)">
+      <node ref="Lock1" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="QLock1" pin="2" pinfunction="C" pintype="passive"/>
+    </net>
+    <net code="20" name="Net-(QMixer1-Pad2)">
+      <node ref="QMixer1" pin="2" pintype="passive"/>
+      <node ref="RMixer1" pin="1" pintype="passive"/>
+    </net>
+    <net code="21" name="Net-(SSR_Cruhser1--)">
+      <node ref="QCrusher1" pin="1" pintype="passive"/>
+      <node ref="SSR_Cruhser1" pin="4" pinfunction="-" pintype="power_in"/>
+    </net>
+    <net code="22" name="Net-(SSR_Cruhser1-L1)">
+      <node ref="Crusher1" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="SSR_Cruhser1" pin="1" pinfunction="L1" pintype="power_in"/>
+    </net>
+    <net code="23" name="Net-(SSR_Cruhser1-L2)">
+      <node ref="Crusher1" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="SSR_Cruhser1" pin="2" pinfunction="L2" pintype="power_in"/>
+    </net>
+    <net code="24" name="Net-(SSR_Fan1--)">
+      <node ref="QFan1" pin="1" pintype="passive"/>
+      <node ref="SSR_Fan1" pin="4" pinfunction="-" pintype="power_in"/>
+    </net>
+    <net code="25" name="Net-(SSR_Fan1-L1)">
+      <node ref="Fan1" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="SSR_Fan1" pin="1" pinfunction="L1" pintype="power_in"/>
+    </net>
+    <net code="26" name="Net-(SSR_Fan1-L2)">
+      <node ref="Fan1" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="SSR_Fan1" pin="2" pinfunction="L2" pintype="power_in"/>
+    </net>
+    <net code="27" name="Net-(SSR_Mixer1--)">
+      <node ref="QMixer1" pin="1" pintype="passive"/>
+      <node ref="SSR_Mixer1" pin="4" pinfunction="-" pintype="power_in"/>
+    </net>
+    <net code="28" name="Net-(SSR_Mixer1-L1)">
+      <node ref="Mixer1" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="SSR_Mixer1" pin="1" pinfunction="L1" pintype="power_in"/>
+    </net>
+    <net code="29" name="Net-(SSR_Mixer1-L2)">
+      <node ref="Mixer1" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="SSR_Mixer1" pin="2" pinfunction="L2" pintype="power_in"/>
+    </net>
+    <net code="30" name="unconnected-(U2-D13-Pad28)">
+      <node ref="U2" pin="28" pinfunction="D13" pintype="bidirectional"/>
+    </net>
+    <net code="31" name="unconnected-(U2-D14-Pad26)">
+      <node ref="U2" pin="26" pinfunction="D14" pintype="bidirectional"/>
+    </net>
+    <net code="32" name="unconnected-(U2-D15-Pad3)">
+      <node ref="U2" pin="3" pinfunction="D15" pintype="bidirectional"/>
+    </net>
+    <net code="33" name="unconnected-(U2-D23-Pad15)">
+      <node ref="U2" pin="15" pinfunction="D23" pintype="bidirectional"/>
+    </net>
+    <net code="34" name="unconnected-(U2-D25-Pad23)">
+      <node ref="U2" pin="23" pinfunction="D25" pintype="bidirectional"/>
+    </net>
+    <net code="35" name="unconnected-(U2-D32-Pad21)">
+      <node ref="U2" pin="21" pinfunction="D32" pintype="bidirectional"/>
+    </net>
+    <net code="36" name="unconnected-(U2-D34-Pad19)">
+      <node ref="U2" pin="19" pinfunction="D34" pintype="bidirectional"/>
+    </net>
+    <net code="37" name="unconnected-(U2-D35-Pad20)">
+      <node ref="U2" pin="20" pinfunction="D35" pintype="bidirectional"/>
+    </net>
+    <net code="38" name="unconnected-(U2-EN-Pad16)">
+      <node ref="U2" pin="16" pinfunction="EN" pintype="input"/>
+    </net>
+    <net code="39" name="unconnected-(U2-RX0-Pad12)">
+      <node ref="U2" pin="12" pinfunction="RX0" pintype="input"/>
+    </net>
+    <net code="40" name="unconnected-(U2-RX2-Pad6)">
+      <node ref="U2" pin="6" pinfunction="RX2" pintype="input"/>
+    </net>
+    <net code="41" name="unconnected-(U2-TX0-Pad13)">
+      <node ref="U2" pin="13" pinfunction="TX0" pintype="output"/>
+    </net>
+    <net code="42" name="unconnected-(U2-TX2-Pad7)">
+      <node ref="U2" pin="7" pinfunction="TX2" pintype="output"/>
+    </net>
+    <net code="43" name="unconnected-(U2-VN-Pad18)">
+      <node ref="U2" pin="18" pinfunction="VN" pintype="bidirectional"/>
+    </net>
+    <net code="44" name="unconnected-(U2-VP-Pad17)">
+      <node ref="U2" pin="17" pinfunction="VP" pintype="bidirectional"/>
+    </net>
+  </nets>
+</export>
