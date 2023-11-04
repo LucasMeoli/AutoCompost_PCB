@@ -34,9 +34,9 @@
         "other_text_thickness": 0.15,
         "other_text_upright": false,
         "pads": {
-          "drill": 1.02,
-          "height": 1.8,
-          "width": 1.8
+          "drill": 1.0,
+          "height": 2.0,
+          "width": 2.0
         },
         "silk_line_width": 0.15,
         "silk_text_italic": false,
@@ -173,7 +173,7 @@
       ],
       "track_widths": [
         0.0,
-        0.5
+        1.5
       ],
       "via_dimensions": [
         {
@@ -406,7 +406,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "Placa_Rele.kicad_pro",
+    "filename": "Placa_pcbway.kicad_pro",
     "version": 1
   },
   "net_settings": {
@@ -483,7 +483,7 @@
   },
   "sheets": [
     [
-      "6164fecd-2c83-41e3-903a-21871ef519e8",
+      "7d1200d0-75de-485c-b450-56b5b1d7bcbf",
       ""
     ]
   ],
