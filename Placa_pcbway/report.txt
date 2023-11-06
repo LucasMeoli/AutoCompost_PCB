@@ -1,0 +1,9 @@
+Plotted to 'C:\Lucas\FIUBA\TPP\Hardware\Placa\Gerbers\Placa_pcbway-F_Cu.gbr'.
+Plotted to 'C:\Lucas\FIUBA\TPP\Hardware\Placa\Gerbers\Placa_pcbway-B_Cu.gbr'.
+Plotted to 'C:\Lucas\FIUBA\TPP\Hardware\Placa\Gerbers\Placa_pcbway-F_Silkscreen.gbr'.
+Plotted to 'C:\Lucas\FIUBA\TPP\Hardware\Placa\Gerbers\Placa_pcbway-B_Silkscreen.gbr'.
+Plotted to 'C:\Lucas\FIUBA\TPP\Hardware\Placa\Gerbers\Placa_pcbway-F_Mask.gbr'.
+Plotted to 'C:\Lucas\FIUBA\TPP\Hardware\Placa\Gerbers\Placa_pcbway-B_Mask.gbr'.
+Plotted to 'C:\Lucas\FIUBA\TPP\Hardware\Placa\Gerbers\Placa_pcbway-Edge_Cuts.gbr'.
+Archivo de trabajo Gerber 'C:\Lucas\FIUBA\TPP\Hardware\Placa\Gerbers\Placa_pcbway-job.gbrjob' creado.
+Info: Listo.
